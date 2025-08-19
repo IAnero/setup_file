@@ -1,0 +1,1 @@
+/home/herrakot/setup_dep/.zshrc
